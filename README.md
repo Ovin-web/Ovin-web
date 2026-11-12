@@ -1,25 +1,32 @@
-<!-- Animated Header -->
+<!-- ====================================================== -->
+<!--                    PROFILE HEADER                      -->
+<!-- ====================================================== -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1200&color=2F80ED&center=true&vCenter=true&width=850&lines=Hello%2C+Welcome!;I'm+Kelvin+Dickson+Kimani" alt="Hello, Welcome! I'm Kelvin Dickson Kimani" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3500&pause=1200&color=2EA043&center=true&vCenter=true&width=1000&height=50&lines=Hello!+Welcome%2C+I'm+Kelvin+Dickson+Kimani" alt="Hello! Welcome, I'm Kelvin Dickson Kimani" />
 </p>
 
 <h3 align="center">
-  Data Science and AI Student | AI Researcher | Founder
+  AI & Data Science | Research | Engineering | Entrepreneurship
 </h3>
 
 <p align="center">
-  Building practical AI solutions, intelligent systems, and technology-driven businesses.
+  <i>Building intelligent systems, researching machine learning, and turning ideas into technology that matters.</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1400&color=2EA043&center=true&vCenter=true&width=850&height=45&lines=Exploring+the+Frontiers+of+Artificial+Intelligence;Researching+Machine+Learning+%26+Model+Efficiency;Building+LLM+Applications+%26+AI+Agents;Turning+Ideas+into+Technology+that+Matters" alt="Professional introduction" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kelvin-kimani-a9660125b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:kdickson089@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-2F80ED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Ovin-web">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -27,170 +34,175 @@
 
 ## About Me
 
-I am a Data Science and Artificial Intelligence student at **IIT Madras Zanzibar Campus**, interested in building intelligent systems that solve practical problems.
+I'm **Kelvin Dickson Kimani**, an Artificial Intelligence and Data Science student at **IIT Madras Zanzibar Campus**, an emerging AI researcher, and technology entrepreneur from Tanzania.
 
-My work focuses on:
+My work focuses on applying artificial intelligence and data science to practical problems. I explore machine learning, predictive modelling, large language models, retrieval-augmented generation (RAG), intelligent agents, and workflow automation.
 
-- Artificial Intelligence and Machine Learning.
-- Large Language Models, RAG systems, and AI agents.
-- Data-driven decision-making and predictive modelling.
-- Business automation and intelligent workflows.
-- Technology entrepreneurship and digital infrastructure.
+Beyond research and engineering, I enjoy building products, leading technology initiatives, and exploring how emerging technologies can create meaningful opportunities.
 
-I enjoy combining research, engineering, and entrepreneurship to develop solutions with practical impact.
+I believe the real value of technology lies not only in what we can build, but in the problems we can solve with it.
+
+### My Professional Focus
+
+- **Applied AI Research:** Machine learning, predictive modelling, model compression and evaluation.
+- **AI Engineering:** LLM applications, RAG systems, intelligent agents and workflow automation.
+- **Data Science:** Statistical analysis, data processing, feature engineering and predictive analytics.
+- **Software Development:** Building practical applications and data-driven systems.
+- **Entrepreneurship:** Developing technology ventures and solutions for underserved communities.
 
 ---
 
-## Research and Publications
+## Research & Publications
 
-### Accepted at Africa at NeurIPS 2026
-
-**Cross-Dataset Evaluation of Compression Strategies for Fuel Efficiency Prediction**
-
-<p>
-  <a href="https://openreview.net/forum?id=1Jig55hmfo">
-    <img src="https://img.shields.io/badge/Research-Accepted-2F80ED?style=for-the-badge" alt="Research Accepted"/>
-  </a>
-  <a href="https://openreview.net/forum?id=1Jig55hmfo">
-    <img src="https://img.shields.io/badge/OpenReview-Paper-181717?style=for-the-badge&logo=readthedocs&logoColor=white" alt="OpenReview"/>
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/RESEARCH-Accepted-2ea043?style=for-the-badge" alt="Research accepted" />
+  <img src="https://img.shields.io/badge/AFRICA%20AT%20NEURIPS-2026-6A5ACD?style=for-the-badge" alt="Africa at NeurIPS 2026" />
 </p>
 
-**Co-authors:** Kelvin Dickson Kimani and Given Kangwa Bwalya.
+### Cross-Dataset Evaluation of Compression Strategies for Fuel Efficiency Prediction
+
+**Status:** Accepted — Africa at NeurIPS 2026  
+**Co-author:** Given Kangwa Bwalya
+
+Research exploring the evaluation of machine learning compression strategies for fuel efficiency prediction across datasets.
 
 **Research areas:**
-- Model compression.
-- Coreset learning.
-- Principal Component Analysis.
-- Random Forest and Neural Networks.
-- Quantization.
-- Cross-dataset evaluation.
 
-The research investigates how different compression strategies affect the performance and efficiency of machine learning models for fuel efficiency prediction.
+- Coreset Learning
+- Principal Component Analysis (PCA)
+- Random Forests
+- Neural Networks
+- Model Quantization
+- Cross-Dataset Evaluation
 
-[Read the research paper on OpenReview](https://openreview.net/forum?id=1Jig55hmfo)
+My research interests extend to efficient machine learning, model performance, generalization, and practical applications of AI.
+
+<p align="center">
+  <a href="https://openreview.net/forum?id=1Jig55hmfo">
+    <img src="https://img.shields.io/badge/READ%20THE%20PAPER-OpenReview-2ea043?style=for-the-badge&logo=openreview&logoColor=white" alt="Read accepted research paper" />
+  </a>
+</p>
 
 ---
 
 ## Professional Experience
 
-### AI and Business Automation Intern
-**VIGOR Group | Remote**
+### VIGOR Group — AI & Business Automation Intern
 
 *July 2026 – Present*
 
-- Working on AI-powered business automation solutions.
-- Developing a Retrieval-Augmented Generation (RAG) system for regulatory compliance.
-- Exploring knowledge layers for LLM-based agents.
-- Working with structured knowledge systems and automation workflows.
+Working at the intersection of artificial intelligence, business operations and automation.
 
-### Founder and CEO
-**ATLANTIS 5G | Tanzania**
+- Exploring AI-powered solutions for business workflows.
+- Developing retrieval-augmented knowledge systems for regulatory compliance.
+- Working on structured knowledge layers to provide context to LLM-powered agents.
+- Exploring knowledge management approaches involving Notion and Obsidian.
+- Investigating how AI agents can make organizational information more accessible and useful.
 
-*2026 – Present*
+### ATLANTIS 5G — Founder & CEO
 
-- Building community-based Wi-Fi infrastructure to improve affordable internet access.
-- Managing operations, service delivery, and business development.
-- Working on network expansion and digital connectivity solutions.
-- Exploring sustainable infrastructure and energy-efficient connectivity.
+*Tanzania | 2026 – Present*
 
-### Junior Chemistry and Mathematics Teacher Intern
-**Kiranyi Secondary School | Arusha, Tanzania**
+Building a community connectivity initiative focused on affordable internet access.
+
+- Founded and lead a community Wi-Fi initiative serving students and local communities.
+- Oversee operations, infrastructure development, business strategy and partnerships.
+- Work on expanding affordable connectivity across underserved communities.
+- Develop opportunities for youth-led technology innovation and sustainable digital infrastructure.
+
+### Kiranyi Secondary School — Junior Chemistry & Mathematics Teacher Intern
 
 *September 2023 – September 2024*
 
-- Supported the teaching of Mathematics and Chemistry.
-- Prepared learning materials and supported classroom activities.
-- Helped students understand mathematical and scientific concepts.
+- Supported Chemistry and Mathematics teaching.
+- Helped students develop problem-solving and analytical skills.
+- Gained experience in communication, mentoring and knowledge transfer.
 
 ---
 
 ## Selected Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| **Regulatory Compliance RAG System** | AI-powered knowledge retrieval and regulatory compliance system. | Python, RAG, LLMs |
-| **Fuel Efficiency Prediction** | Machine learning and neural network models for predicting vehicle fuel efficiency. | Python, Scikit-learn, Neural Networks |
-| **PesaPlan** | Flutter-based personal finance application. | Dart, Flutter |
-| **TradeLens AI** | Digital trade passport concept supporting cross-border trade processes between Tanzania and Zambia. | AI, PostgreSQL, QR |
-| **ATLANTIS 5G** | Community Wi-Fi infrastructure providing affordable internet connectivity. | Networking, Business Operations |
-| **AI Cheatcodes** | An eBook exploring practical applications of artificial intelligence. | AI, Research, Technical Writing |
+### AI & Intelligent Systems
 
-### Featured Repository
+| Project | Description |
+|---|---|
+| **Regulatory Compliance RAG System** | Developing a retrieval-augmented knowledge system to support regulatory compliance and contextual retrieval for LLM agents. |
+| **Fuel Efficiency Prediction** | Applying machine learning and neural networks to predict vehicle fuel efficiency, with experiments involving model compression. |
+| **AI Cheatcodes** | An eBook sharing practical ways to use AI tools for learning, productivity and problem-solving. |
 
-<a href="https://github.com/Ovin-web/PesaPlan---App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ovin-web&repo=PesaPlan---App&theme=github_dark&hide_border=true" alt="PesaPlan Repository"/>
-</a>
+### Software & Entrepreneurship
+
+| Project | Description |
+|---|---|
+| **ATLANTIS 5G** | Community Wi-Fi infrastructure designed to improve affordable internet access in Tanzania. |
+| **PesaPlan** | A Flutter-based personal finance application focused on budgeting and financial management. |
+| **TradeLens AI** | An AI-enabled cross-border trade documentation concept using QR codes and PostgreSQL. |
+
+<p align="center">
+  <i>Explore my repositories for projects, experiments and ongoing development.</i>
+  <br/><br/>
+  <a href="https://github.com/Ovin-web?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" />
+  </a>
+</p>
 
 ---
 
-## Writing and Knowledge Sharing
+## Writing & Knowledge Sharing
 
-### AI Cheatcodes
+### AI Cheatcodes — eBook
 
-An eBook focused on practical applications of artificial intelligence, helping readers explore how AI tools can support learning, productivity, and everyday tasks.
+I created **AI Cheatcodes**, an eBook focused on practical applications of artificial intelligence.
+
+It reflects my interest in making AI knowledge more accessible and helping people understand how to use emerging technologies effectively.
 
 ---
 
-## Education and Recognition
+## Education & Recognition
 
-**Bachelor of Science in Data Science and Artificial Intelligence**
+**Bachelor of Science — Data Science and Artificial Intelligence**  
+IIT Madras Zanzibar Campus
 
-IIT Madras Zanzibar Campus  
-Expected Graduation: September 2028
-
-**Recognition and Achievements**
-
-- Airtel Africa Foundation Scholarship recipient.
+- Airtel Africa Foundation full-tuition scholarship recipient.
 - Research accepted at Africa at NeurIPS 2026.
-- Experience developing AI, machine learning, and technology entrepreneurship projects.
+- Experience spanning applied AI, business automation, software development and entrepreneurship.
 
 ---
 
 ## Technical Skills
 
-### Programming Languages
+### Programming & Data Science
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,dart" alt="Python and Dart" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
-### AI and Data Science
+### Machine Learning & Artificial Intelligence
 
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-2F80ED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI_Agents-008080?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch and TensorFlow" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Large Language Models" />
+  <img src="https://img.shields.io/badge/RAG-2ea043?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/AI%20Agents-6A5ACD?style=for-the-badge" alt="AI Agents" />
 </p>
 
-### Development and Databases
+### Software Development & Databases
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,postgres,mysql,sqlite,graphql" alt="Flutter and database technologies" />
 </p>
 
-### Tools and Platforms
+### Tools & Platforms
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,googlecloud,notion,gitlab" alt="Development tools and platforms" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
 ---
@@ -198,40 +210,44 @@ Expected Graduation: September 2028
 ## GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ovin-web&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Statistics"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ovin-web&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages"/>
+  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Ovin-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=2ea043&count_private=true" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Ovin-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ea043&langs_count=8" alt="Most used programming languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ovin-web&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
+---
 
-### Contribution Activity
+## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ovin-web&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ovin-web&bg_color=0d1117&color=2ea043&line=2ea043&point=ffffff&area=true&hide_border=true" alt="GitHub contribution graph" />
 </p>
 
 ---
 
 ## Let's Connect
 
-I am open to research collaborations, AI projects, internships, and opportunities to build impactful technology solutions.
+I'm interested in connecting with researchers, AI engineers, founders, students and organizations working on meaningful technology.
+
+Whether it's an AI research collaboration, an open-source project, an engineering opportunity or an ambitious idea, I'd be glad to connect.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kelvin-kimani-a9660125b">
-    <img src="https://img.shields.io/badge/LinkedIn-Kelvin_Kimani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Kelvin%20Kimani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:kdickson089@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kdickson089%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Ovin-web">
-    <img src="https://img.shields.io/badge/GitHub-Ovin--web-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Ovin--web-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
----
+<p align="center">
+  <b>RESEARCH. BUILD. EXPERIMENT. CREATE IMPACT.</b>
+  <br/>
+  <i>Turning ideas into intelligent solutions.</i>
+</p>
 
 <p align="center">
-  <b>Building intelligent systems. Solving real-world problems. Creating impact through technology.</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,100:0d1117&height=90&section=footer" width="100%" alt="Footer" />
 </p>
