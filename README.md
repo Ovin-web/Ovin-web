@@ -1,77 +1,232 @@
+<!-- ===================== HEADER ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0d1117,50:123524,100:2ea043&text=KELVIN%20DICKSON%20KIMANI&fontColor=ffffff&fontSize=42&fontAlignY=45&desc=AI%20%26%20DATA%20SCIENCE%20%7C%20RESEARCH%20%7C%20ENGINEERING%20%7C%20ENTREPRENEURSHIP&descSize=13&descAlignY=65&animation=fadeIn" width="100%" alt="Kelvin Dickson Kimani" />
+</p>
+
 <p align="center">
   <a href="https://github.com/Ovin-web">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1114&text=Hello!%20I'm%20Kelvin%20Dickson%20Kimani" alt="Hello! I&#39;m Kelvin Dickson Kimani" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1400&color=2EA043&center=true&vCenter=true&width=850&height=45&lines=Exploring+the+frontiers+of+Artificial+Intelligence;Researching+Machine+Learning+%26+Model+Efficiency;Building+LLM+Applications+%26+AI+Agents;Turning+Ideas+into+Technology+that+Matters" alt="Professional introduction" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=900&height=44&lines=AI%20%26%20Data%20Science%20Student%20%7C%20Building%20AI%20Agents%20%26%20Intelligent%20Software;Building%20AI%20tools%2C%20intelligent%20systems%2C%20and%20impactful%20startups" alt="Typing headlines" />
-</p>
-
-### 🚀 About Me
-
-AI &amp; Data Science student at IIT Madras – Zanzibar | Founder of ATLANTIS 5G | Building AI agents, intelligent software, and digital solutions that solve real-world problems.
-
-🔭 &nbsp;I'm currently working on **ATLANTIS 5G, AI agents, machine learning projects, and full-stack applications.**  
-🌱 &nbsp;I'm currently learning **Advanced Machine Learning, Large Language Models (LLMs), MLOps, and Cloud Computing.**  
-👯 &nbsp;I'm looking to collaborate on **AI, machine learning, open-source projects, startups, and innovative software solutions.**  
-🤔 &nbsp;I'm looking for help with **Scaling AI applications, startup growth, networking, and cloud infrastructure.**  
-💬 &nbsp;Ask me about **Python, AI, Data Science, Flutter, Streamlit, SQL, GitHub, and startup building.**  
-😄 &nbsp;Pronouns: **he/him**  
-⚡ &nbsp;Fun fact: **I enjoy turning ideas into products that people actually use.**
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-</p>
-
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/linkedin.com/in/kelvin-kimani-a9660125b" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/smith_gram2022?igsh=ZWIxbmtxYmY5ajB2&amp;utm_source=qr" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.tiktok.com/@kelvinkimani937?_r=1&amp;_t=ZS-98XboqQWagh" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="https://youtube.com/@kimani2080?si=KGmTgpPMnFd-2MA4" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://pin.it/1asqrIxiP" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
-  <a href="mailto:kdickson089@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Ovin-web&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Ovin-web&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ovin-web&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <a href="https://www.linkedin.com/in/kelvin-kimani-a9660125b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kdickson089@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ovin-web">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/Ovin-web">Ovin-web</a></i></p>
+
+## About Me
+
+I'm **Kelvin Dickson Kimani**, an Artificial Intelligence and Data Science student at **IIT Madras Zanzibar Campus**, an emerging AI researcher, and technology entrepreneur from Tanzania.
+
+My work focuses on applying artificial intelligence and data science to practical problems. I explore machine learning, predictive modelling, large language models, retrieval-augmented generation (RAG), intelligent agents, and workflow automation.
+
+Beyond research and engineering, I enjoy building products, leading technology initiatives, and exploring how emerging technologies can create meaningful opportunities.
+
+I believe the real value of technology lies not only in what we can build, but in the problems we can solve with it.
+
+**My professional focus:**
+- **Applied AI Research:** Machine learning, predictive modelling, model compression and evaluation.
+- **AI Engineering:** LLM applications, RAG systems, intelligent agents and automation.
+- **Data Science:** Statistical analysis, data processing, feature engineering and predictive analytics.
+- **Software Development:** Building practical applications and data-driven systems.
+- **Entrepreneurship:** Developing technology ventures and solutions for underserved communities.
+
+---
+
+## Research & Publications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RESEARCH-Accepted%20at%20Africa%20at%20NeurIPS%202026-2ea043?style=for-the-badge" />
+</p>
+
+### Cross-Dataset Evaluation of Compression Strategies for Fuel Efficiency Prediction
+
+**Status:** Accepted — Africa at NeurIPS 2026  
+**Co-author:** Given Kangwa Bwalya
+
+Research exploring the evaluation of machine learning compression strategies for fuel efficiency prediction across datasets.
+
+**Research areas:**
+- Coreset Learning
+- Principal Component Analysis (PCA)
+- Random Forests
+- Neural Networks
+- Model Quantization
+- Cross-Dataset Evaluation
+
+My research interests extend to efficient machine learning, model performance, generalization, and practical applications of AI.
+
+---
+
+## Professional Experience
+
+### VIGOR Group — AI & Business Automation Intern
+*July 2026 – Present*
+
+Working at the intersection of artificial intelligence, business operations and automation.
+
+- Exploring AI-powered solutions for business workflows.
+- Developing retrieval-augmented knowledge systems for regulatory compliance.
+- Working on structured knowledge layers to provide context to LLM-powered agents.
+- Exploring knowledge management approaches involving Notion and Obsidian.
+- Investigating how AI agents can make organizational information more accessible and useful.
+
+### ATLANTIS 5G — Founder & CEO
+*Tanzania | 2026 – Present*
+
+Building a community connectivity initiative focused on affordable internet access.
+
+- Founded and lead a community Wi-Fi initiative serving students and local communities.
+- Oversee operations, infrastructure development, business strategy and partnerships.
+- Work on expanding reliable and affordable connectivity across underserved communities.
+- Explore sustainable infrastructure and opportunities for youth-led technology innovation.
+
+### Kiranyi Secondary School — Junior Chemistry & Mathematics Teacher Intern
+*September 2023 – September 2024*
+
+- Supported Chemistry and Mathematics teaching.
+- Helped students develop problem-solving and analytical skills.
+- Gained experience in communication, mentoring and knowledge transfer.
+
+---
+
+## Selected Projects
+
+### AI & Intelligent Systems
+
+| Project | Description |
+|---|---|
+| **Regulatory Compliance RAG System** | Developing a retrieval-augmented knowledge system to support regulatory compliance and contextual retrieval for LLM agents. |
+| **Fuel Efficiency Prediction** | Applying machine learning and neural networks to predict vehicle fuel efficiency, with experiments involving model compression. |
+| **AI Cheatcodes** | An eBook sharing practical ways to use AI tools for learning, productivity and problem-solving. |
+
+### Software & Entrepreneurship
+
+| Project | Description |
+|---|---|
+| **ATLANTIS 5G** | Community Wi-Fi infrastructure designed to improve affordable internet access in Tanzania. |
+| **PesaPlan** | A Flutter-based personal finance application focused on budgeting and financial management. |
+| **TradeLens AI** | An AI-enabled cross-border trade documentation concept using QR codes and PostgreSQL. |
+
+<p align="center">
+  <i>Explore my repositories for projects, experiments and ongoing development.</i>
+  <br/>
+  <a href="https://github.com/Ovin-web?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-2ea043?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## Writing & Knowledge Sharing
+
+### AI Cheatcodes — eBook
+
+I created **AI Cheatcodes**, an eBook focused on practical applications of artificial intelligence.
+
+It reflects my interest in making AI knowledge more accessible and helping people understand how to use emerging technologies effectively.
+
+---
+
+## Education & Recognition
+
+**Bachelor of Science — Data Science and Artificial Intelligence**  
+IIT Madras Zanzibar Campus
+
+- Airtel Africa Foundation full-tuition scholarship recipient.
+- Research accepted at Africa at NeurIPS 2026.
+- Experience spanning applied AI, business automation, software development and entrepreneurship.
+
+---
+
+## Technical Skills
+
+### Programming & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,dart,sql" alt="Programming languages" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+### Machine Learning & AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="Machine learning frameworks" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-2ea043?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-6A5ACD?style=for-the-badge" />
+</p>
+
+### Software Development & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,postgres,mysql,sqlite,graphql" alt="Software and database technologies" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,googlecloud,notion,gitlab" alt="Development tools" />
+</p>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Ovin-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=2ea043&count_private=true" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Ovin-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ea043&langs_count=8" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ovin-web&bg_color=0d1117&color=2ea043&line=2ea043&point=ffffff&area=true&hide_border=true" alt="GitHub contribution graph" />
+</p>
+
+---
+
+## Let's Connect
+
+I'm interested in connecting with researchers, AI engineers, founders, students and organizations working on meaningful technology.
+
+Whether it's an AI research collaboration, an open-source project, an engineering opportunity or an ambitious idea, I'd be glad to connect.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kelvin-kimani-a9660125b">
+    <img src="https://img.shields.io/badge/LinkedIn-Kelvin%20Kimani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kdickson089@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ovin-web">
+    <img src="https://img.shields.io/badge/GitHub-Ovin--web-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Research. Build. Experiment. Create Impact.</b>
+  <br/>
+  <i>Turning ideas into intelligent solutions.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,100:0d1117&height=90&section=footer" width="100%" alt="Footer" />
+</p>
